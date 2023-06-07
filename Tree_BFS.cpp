@@ -61,4 +61,6 @@ int main()
         X = insert(X,a[i]);
     }
     BFS(X);
-}
+}  
+
+// this is full code of BFS traversal algorithms
